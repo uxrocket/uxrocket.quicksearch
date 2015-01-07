@@ -1,0 +1,26 @@
+{
+  "name": "uxrocket.quicksearch",
+  "version": "0.1.0",
+  "description": "UX Rocket QuickSearch: Allows searchable list in big navigations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uxrocket/uxrocket.quicksearch.git"
+  },
+  "dependencies": {
+	"jquery": "latest",
+	"handlebars": "latest"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+	"autocomplete",
+	"search",
+	"uxrocket"
+  ],
+  "author": "Bilal Cinarli <bcinarli@gmail.com> (http://bcinarli.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxrocket/uxrocket.quicksearch/issues"
+  },
+  "homepage": "https://github.com/uxrocket/uxrocket.quicksearch"
+}

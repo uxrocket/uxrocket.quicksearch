@@ -1,0 +1,29 @@
+{
+  "name": "uxrocket.quicksearch",
+  "version": "0.1.0",
+  "homepage": "https://github.com/uxrocket/uxrocket.quicksearch",
+  "authors": [
+    "Bilal Çınarlı <bcinarli@gmail.com>"
+  ],
+  "description": "UX Rocket QuickSearch: Allows searchable list in big navigations",
+  "main": "lib/uxrocket.quicksearch.js",
+  "dependencies": {
+    "jquery": ">=1.11.1",
+	"handlebars": ">=2.0.0"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+	"autocomplete",
+	"search",
+    "uxrocket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
