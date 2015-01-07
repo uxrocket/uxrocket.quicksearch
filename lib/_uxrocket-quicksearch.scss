@@ -1,0 +1,37 @@
+/* @author Bilal Cinarli */
+$quicksearch-version: "0.1.0";
+
+/** -------------------------------------------
+ 	Quick Search Styles
+    ------------------------------------------- **/
+.uxrocket-quicksearch {
+	&-results {
+	    position: absolute;
+	    min-width: 200px;
+	    max-height: 450px;
+	    overflow-y: scroll;
+	    overflow-x: hidden;
+	    z-index: 9999;
+		background-color: #fff;
+
+	    ul {
+	        margin: 0;
+	        padding: 0;
+	    }
+
+	    li {
+	        list-style: none;
+	    }
+
+	    a {
+	        display: block;
+	        text-decoration: none;
+	    }
+	}
+	
+	&-highlight {
+		a {
+			background-color: #f9f9f9;
+		}
+	}
+}
