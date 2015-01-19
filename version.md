@@ -1,3 +1,6 @@
+## Version 0.3.0
+- NEW: On window resize or orientationchange event, the suggestion list position is recalculated. 
+
 ## Version 0.2.0
 - NEW: `closeDelay` option is added for setting a timeout while removing the holder on selection. Default value is `false` and for timeout, just set a integer millisecond value.
 - CHANGE: `uxrocket-quicksearch-selected` class now also added to selected link on touch selection.
